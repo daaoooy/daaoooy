@@ -11,5 +11,5 @@
 <h1 align="center">👩‍💻 My Stats 👩‍💻</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&theme=transparent" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=noooeyadoooy" width="42%" height="90%"/>
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=noooeyadoooy" width="42%" height="100%"/>
 </p>
