@@ -2,18 +2,32 @@
 
 </br>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+
 
 </br>
----
 </br>
 
-<h1 align="center">👩‍💻 My Stats 👩‍💻</h1>
+<h1 align="center">👩‍💻 My GitHub Stats 👩‍💻</h1>
+
 <p align="center">
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact" width = "49%" height="130%" />
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"  width = "49%" height="134%" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D GitHub Grass" width="100%" />
+</p>
+
+<p align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact&theme=transparent&langs_count=5" width="49.5%" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&theme=transparent" width="49.5%" />
 </p>
 
 
+
+
 </br>
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=noooeyadoooy" width="42%" height="100%"/>
+</br>
+
+<h1 align="center">👩‍💻 Algorithm 👩‍💻</h1>
+<p align="center">
+  <img src="http://mazandi.herokuapp.com/api?handle=noooeyadooy&theme=warm" width="48%" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=noooeyadooy" width="48%" />
+</p>
+
+
