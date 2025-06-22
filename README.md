@@ -5,8 +5,11 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 </br>
+---
+</br>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h1 align="center">👩‍💻 My Stats 👩‍💻</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&theme=transparent" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=daaoooy" width="42%" height="100%"/>
 </p>
