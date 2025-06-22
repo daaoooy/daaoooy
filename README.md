@@ -10,6 +10,6 @@
 
 <h1 align="center">👩‍💻 My Stats 👩‍💻</h1>
 <p align="center">
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=daaoooys&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact" width = "49%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=noooeyadoooy" width="42%" height="100%"/>
 </p>
