@@ -5,5 +5,5 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 ![](./profile-3d-contrib/profile-gitblock.svg)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daaoooy&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&theme=transparent)
 </div>
