@@ -2,8 +2,11 @@
 
 </br>
 
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+</br>
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-![](./profile-3d-contrib/profile-gitblock.svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&theme=transparent)
 </div>
