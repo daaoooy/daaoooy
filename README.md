@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/900cf13b-7f19-4421-b2a9-36e5da6acddd" />
+<img src="https://github.com/user-attachments/assets/5fee9f32-8e46-4560-8661-ec8d70f8eaef" />
 </p>
 <br />
 <br />
@@ -12,15 +12,21 @@
 <h1 align="center">👩‍💻 My GitHub Stats 👩‍💻</h1>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D GitHub Grass" width="100%" />
+  <picture>
+    <source srcset="./profile-3d-contrib/profile-night-view.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="./profile-3d-contrib/profile-green.svg" media="(prefers-color-scheme: light)" />
+    <img src="./profile-3d-contrib/profile-green.svg" alt="3D GitHub Grass" width="100%"/>
+  </picture>
 </p>
+
+
 <br/>
 
 <p align="center">
   <table align="center">
     <tr>
       <td>
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact&hide_border=true" width="500" />
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&theme=transparent&layout=compact&hide_border=true" width="500" />
       </td>
       <td>
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&theme=transparent&hide_border=true" width="500" />
