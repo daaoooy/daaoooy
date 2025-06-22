@@ -7,6 +7,6 @@
 </br>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&theme=transparent)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&theme=transparent" />
+</p>
