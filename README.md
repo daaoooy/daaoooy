@@ -1,9 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=b9c7e3&height=300&section=header&text=&fontSize=" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=7096b7&height=300&section=header&text=&fontSize=" />
+</p>
 
-
-
-![Image](https://github.com/user-attachments/assets/c27ef3c5-10ac-438b-9bd0-8d38881d1f2d)
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/900cf13b-7f19-4421-b2a9-36e5da6acddd" />
+</p>
 <br />
 <br />
 
@@ -34,7 +35,7 @@
 
 <h1 align="center">👩‍💻 Algorithm 👩‍💻</h1>
 <p align="center">
-  <img src="http://mazandi.herokuapp.com/api?handle=noooeyadoooy&theme=warm" width="48%" />
+  <img src="http://mazandi.herokuapp.com/api?handle=noooeyadoooy&theme=silver" width="48%" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=noooeyadoooy" width="48%" />
 </p>
 
