@@ -14,7 +14,7 @@
 <p align="center">
   <picture>
     <source srcset="./profile-3d-contrib/profile-night-view.svg" media="(prefers-color-scheme: dark)" />
-    <source srcset="./profile-3d-contrib/profile-green.svg" media="(prefers-color-scheme: light)" />
+    <source srcset="./profile-3d-contrib/profile-gitblock.svg" media="(prefers-color-scheme: light)" />
     <img src="./profile-3d-contrib/profile-green.svg" alt="3D GitHub Grass" width="100%"/>
   </picture>
 </p>
