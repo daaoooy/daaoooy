@@ -28,7 +28,7 @@
 
 <br/>
 
-## Github Stats
+<!-- ## Github Stats -->
 
 <p>
   <!-- GitHub Stats -->
