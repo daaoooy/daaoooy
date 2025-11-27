@@ -7,6 +7,24 @@
   <img alt="banner" src="https://github.com/user-attachments/assets/d8032eca-e5ad-4d0d-9911-7aab651d0c5c" />
 </picture>
 
+<br/>
+
+<br/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=daaoooy&utm_content=farm" >
+  <img
+    src="https://render.gitanimals.org/farms/daaoooy"
+    width="100%"
+    height="300"
+  />
+</a>
+
+<br/>
+
+<br/>
+
+<br/>
+
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
@@ -23,35 +41,34 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
-
 <br/>
 
 <br/>
 
-<!-- ## Github Stats -->
+## Github Stats
 
 <p>
   <!-- GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&count_private=true&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&theme=dark" />
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&count_private=true&text_color=000000&title_color=000000&icon_color=000000&hide_border=true&theme=light" />
-    <img src="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&count_private=true&text_color=000000&icon_color=000000&hide_border=true&theme=light" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true&count_private=true&text_color=000000&icon_color=000000&hide_border=true&theme=light" width="50%" />
   </picture>
 
-  <!-- Top Languages 
+  <!-- Top Languages -->
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&theme=dark" />
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact&hide_border=true&theme=light" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact&hide_border=true&theme=light" width="47%" />
-  </picture> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact&hide_border=true&theme=light" width="45%" />
+  </picture> 
 </p>
 
-<!--<br/>
+<br/>
 
 <br/>
 
 ## Algorithms
 
-<p> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=noooeyadoooy" width="48%" /> <img src="http://mazandi.herokuapp.com/api?handle=noooeyadoooy&theme=dark" width="48%" />  </p> -->
+<p> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=noooeyadoooy" width="48%" /> <img src="http://mazandi.herokuapp.com/api?handle=noooeyadoooy&theme=dark" width="48%" />  </p>
 
 
