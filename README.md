@@ -97,12 +97,12 @@
   <a href="https://solved.ac/noooeyadoooy">
     <img
       src="http://mazassumnida.wtf/api/generate_badge?boj=noooeyadoooy"
-      height="130"
+      height="140"
     />
   </a>
   <img
     src="http://mazandi.herokuapp.com/api?handle=noooeyadoooy&theme=warm"
-    height="130"
+    height="140"
   />
 </div>
 
@@ -117,12 +117,12 @@
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true" height="130"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true" height="140"/>
   </picture>
   
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact"/>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact" height="130"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact" height="140"/>
   </picture>
 </div>
