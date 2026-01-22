@@ -97,12 +97,12 @@
   <a href="https://solved.ac/noooeyadoooy">
     <img
       src="http://mazassumnida.wtf/api/generate_badge?boj=noooeyadoooy"
-      height="140"
+      width="320"
     />
   </a>
   <img
     src="http://mazandi.herokuapp.com/api?handle=noooeyadoooy&theme=warm"
-    height="140"
+    width="320"
   />
 </div>
 
@@ -112,7 +112,7 @@
 <br/>
 
 ## GITHUB INFO
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fdaaoooy?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fdaaoooy?color=gray&label=hits&size=small)](https://myhits.vercel.app)
 
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true" />
@@ -125,4 +125,12 @@
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaoooy&layout=compact" height="140"/>
   </picture>
+
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=daaoooy&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/daaoooy"
+  width="640"
+/>
+</a>
 </div>
+
