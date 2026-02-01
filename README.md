@@ -117,7 +117,7 @@
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true" height="140"/>
+    <img alt="why error.. 😭" src="https://github-readme-stats.vercel.app/api?username=daaoooy&show_icons=true" height="140"/>
   </picture>
   
   <picture>
