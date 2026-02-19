@@ -170,19 +170,19 @@
       <!-- Dark Mode -->
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=000000&color=000000&line=5286ff&area_color=cccccc&point=284a99&area=true&hide_border=true"
-        width="660"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=ffffff00&color=ffffff&line=5286ff&area_color=cccccc&point=284a99&area=true&hide_border=true"
+        width="670"
       />
       <!-- Light Mode -->
       <source
         media="(prefers-color-scheme: light)"
         srcset="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=ffffff00&color=000000&line=5286ff&area_color=cccccc&point=284a99&area=true&hide_border=true"
-        width="660"
+        width="670"
       />
       <!-- Fallback -->
       <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=ffffff00&color=000000&line=5286ff&area_color=cccccc&point=284a99&area=true&hide_border=true"
-        width="660"
+        width="670"
       />
     </picture>
   </p>
