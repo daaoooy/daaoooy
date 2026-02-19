@@ -144,7 +144,7 @@
 
   <img
     src="https://solvedac-readme-stats.vercel.app/api?handle=noooeyadoooy"
-    width="70%"
+    width="720"
   />
 
   <br /><br /><br /><br />
@@ -177,7 +177,6 @@
         <a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer">
           <img
             src="https://helio-github-stats.vercel.app/api?username=daaoooy&custom_title=Daaoooy%27s+GitHub+Stats&theme=transparent&title_color=000000&text_color=4a4a4a&icon_color=878da1&hide_border=true&border_radius=4.5"
-            width="100%"
           />
         </a>
       </td>
@@ -185,7 +184,6 @@
         <a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer">
           <img
             src="https://github-streak-stats-ruby.vercel.app/?user=daaoooy&theme=graywhite&hide_border=true&border_radius=4.5&mode=weekly"
-            width="100%"
           />
         </a>
       </td>
