@@ -157,7 +157,7 @@
   <!-- Profile Views -->
   <a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://komarev.com/ghpvc/?username=daaoooy&color=ffffff&style=flat"
+      src="https://komarev.com/ghpvc/?username=daaoooy&color=000000&style=flat"
       alt="Profile Views"
     />
   </a>
@@ -165,10 +165,27 @@
   <br />
 
   <!-- Activity Graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=ffffff00&color=000000&line=5286ff&area_color=cccccc&point=284a99&area=true&hide_border=true"
-    width="660"
-  />
+  <p align="center">
+    <picture>
+      <!-- Dark Mode -->
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=000000&color=000000&line=5286ff&area_color=cccccc&point=284a99&area=true&hide_border=true"
+        width="660"
+      />
+      <!-- Light Mode -->
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=ffffff00&color=000000&line=5286ff&area_color=cccccc&point=284a99&area=true&hide_border=true"
+        width="660"
+      />
+      <!-- Fallback -->
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=ffffff00&color=000000&line=5286ff&area_color=cccccc&point=284a99&area=true&hide_border=true"
+        width="660"
+      />
+    </picture>
+  </p>
 
   <!-- GitHub Stats / Streak -->
   <table>
