@@ -166,7 +166,7 @@
 
   <!-- Activity Graph -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=ffffff&color=000000&line=000000&area_color=cccccc&point=000000&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=ffffff00&color=000000&line=5286ff&area_color=cccccc&point=284a99&area=true&hide_border=true"
     width="660"
   />
 
@@ -176,14 +176,14 @@
       <td align="center" width="320">
         <a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer">
           <img
-            src="https://helio-github-stats.vercel.app/api?username=daaoooy&custom_title=Daaoooy%27s+GitHub+Stats&theme=transparent&title_color=000000&text_color=4a4a4a&icon_color=878da1&hide_border=true&border_radius=4.5"
+            src="https://helio-github-stats.vercel.app/api?username=daaoooy&custom_title=Daaoooy%27s+GitHub+Stats&theme=transparent&title_color=5286ff&text_color=4a4a4a&icon_color=878da1&hide_border=true&border_radius=4.5"
           />
         </a>
       </td>
       <td align="center" width="320">
         <a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer">
           <img
-            src="https://github-streak-stats-ruby.vercel.app/?user=daaoooy&theme=graywhite&hide_border=true&border_radius=4.5&mode=weekly"
+            src="https://github-streak-stats-ruby.vercel.app/?user=daaoooy&theme=transparent&hide_border=true&border_radius=4.5&mode=weekly"
           />
         </a>
       </td>
