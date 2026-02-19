@@ -167,7 +167,7 @@
   <!-- Activity Graph -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=ffffff&color=000000&line=000000&area_color=cccccc&point=000000&area=true&hide_border=true"
-    width="650"
+    width="660"
   />
 
   <!-- GitHub Stats / Streak -->
@@ -192,12 +192,12 @@
 
   <br />
 
-  <!-- GitAnimals -->
+  <!-- GitAnimals 
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=daaoooy&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/daaoooy"
       width="650"
     />
-  </a>
+  </a -->
 
 </div>
