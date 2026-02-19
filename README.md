@@ -167,7 +167,7 @@
   <!-- Activity Graph -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=daaoooy&bg_color=ffffff&color=000000&line=000000&area_color=cccccc&point=000000&area=true&hide_border=true"
-    width="70%"
+    width="650"
   />
 
   <!-- GitHub Stats / Streak -->
