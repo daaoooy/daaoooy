@@ -119,7 +119,7 @@
   <!-- ========================= -->
   <!-- Baekjoon -->
   <!-- ========================= -->
-  ## BAEKJOON
+  <!-- ## BAEKJOON
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 12px;">
     <a href="https://solved.ac/noooeyadoooy">
@@ -139,7 +139,7 @@
     width="720"
   />
 
-  <br /><br /><br /><br />
+  <br /><br /><br /><br /> -->
 
   <!-- ========================= -->
   <!-- GitHub Info -->
