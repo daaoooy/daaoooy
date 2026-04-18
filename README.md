@@ -11,16 +11,16 @@
       <!-- Dark Mode -->
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+KR&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=640&lines=HI!+🖤+++Thanks+for+stopping+by+my+GitHub.;안녕하세요!+🖤+제+GitHub에+들러주셔서+감사합니다."
+        srcset="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+KR&weight=500&duration=2000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=640&lines=HI!+🖤+++Thanks+for+stopping+by+my+GitHub.;안녕하세요!+🖤+제+GitHub에+들러주셔서+감사합니다."
       />
       <!-- Light Mode -->
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+KR&weight=500&pause=1000&color=4A4A4A&center=true&vCenter=true&width=640&lines=HI!+🖤+++Thanks+for+stopping+by+my+GitHub.;안녕하세요!+🖤+제+GitHub에+들러주셔서+감사합니다."
+        srcset="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+KR&weight=500&duration=2000&pause=1500&color=4A4A4A&center=true&vCenter=true&width=640&lines=HI!+🖤+++Thanks+for+stopping+by+my+GitHub.;안녕하세요!+🖤+제+GitHub에+들러주셔서+감사합니다."
       />
       <!-- Fallback -->
       <img
-        src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+KR&weight=500&pause=1000&color=4A4A4A&center=true&vCenter=true&width=640&lines=HI!+🖤+++Thanks+for+stopping+by+my+GitHub.;안녕하세요!+🖤+제+GitHub에+들러주셔서+감사합니다."
+        src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+KR&weight=500&duration=2000&pause=1500&color=4A4A4A&center=true&vCenter=true&width=640&lines=HI!+🖤+++Thanks+for+stopping+by+my+GitHub.;안녕하세요!+🖤+제+GitHub에+들러주셔서+감사합니다."
         alt="Typing SVG"
       />
     </picture>
