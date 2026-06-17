@@ -51,8 +51,9 @@
 
   ![Static Badge](https://img.shields.io/badge/%20Portfolio%20Website-%23EA4AAA?style=social&logo=githubsponsors)
   &nbsp;
-  [![Static Badge](https://img.shields.io/badge/Velog-%2320C997?style=social&logo=velog)](https://velog.io/@daaoooy/posts)
-
+  [![Static Badge](https://img.shields.io/badge/Velog-%2320C997?style=social&logo=velog)]()
+  &nbsp;
+  [![Static Badge](https://img.shields.io/badge/Tistory-%2320C997?style=social&logo=tistory)]()
 
   <br /><br /><br /><br />
 
@@ -63,9 +64,9 @@
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23FF0069?style=social&logo=instagram)](https://www.instagram.com/daaoooy/#)
   &nbsp;
-  [![Gmail](https://img.shields.io/badge/Google%20mail-%23EA4335?style=social&logo=gmail)](y020226y@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Google%20mail-%23EA4335?style=social&logo=gmail)](mailto:y020226y@gmail.com)
   &nbsp;
-  [![Naver](https://img.shields.io/badge/Naver%20mail-%2303C75A?style=social&logo=naver)](http://2y0206y@naver.com)
+  [![Naver](https://img.shields.io/badge/Naver%20mail-%2303C75A?style=social&logo=naver)](mailto:2y0206y@naver.com)
   &nbsp;
    <!-- [![Kakaotalk](https://img.shields.io/badge/kakotalk-%23FFCD00?style=social&logo=kakaotalk&logoColor=%23FFCD00)](https://open.kakao.com/o/saBecMkh)
   &nbsp;
