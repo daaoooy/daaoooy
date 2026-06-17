@@ -53,7 +53,6 @@
   &nbsp;
   [![Static Badge](https://img.shields.io/badge/Velog-%2320C997?style=social&logo=velog)](https://velog.io/@daaoooy/posts)
 
-  <h6>아직 만드는 중입니다 ( ֊ ̫ ֊ ) ..</h6>
 
   <br /><br /><br /><br />
 
@@ -68,11 +67,9 @@
   &nbsp;
   [![Naver](https://img.shields.io/badge/Naver%20mail-%2303C75A?style=social&logo=naver)](http://2y0206y@naver.com)
   &nbsp;
-  [![Kakaotalk](https://img.shields.io/badge/kakotalk-%23FFCD00?style=social&logo=kakaotalk&logoColor=%23FFCD00)](https://open.kakao.com/o/saBecMkh)
+   <!-- [![Kakaotalk](https://img.shields.io/badge/kakotalk-%23FFCD00?style=social&logo=kakaotalk&logoColor=%23FFCD00)](https://open.kakao.com/o/saBecMkh)
   &nbsp;
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=social&logo=discord&)]()
-
-  <h6>아직 연동 중입니다 ( ֊ ̫ ֊ ) ..</h6>
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=social&logo=discord&)]() -->
 
   <br /><br /><br /><br />
 
