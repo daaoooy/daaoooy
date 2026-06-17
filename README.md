@@ -64,9 +64,9 @@
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23FF0069?style=social&logo=instagram)](https://www.instagram.com/daaoooy/#)
   &nbsp;
-  [![Gmail](https://img.shields.io/badge/Google%20mail-%23EA4335?style=social&logo=gmail)](mailto:y020226y@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Google%20mail-y020226y@gmail.com-23EA4335?style=social&logo=gmail)](mailto:y020226y@gmail.com)
   &nbsp;
-  [![Naver](https://img.shields.io/badge/Naver%20mail-%2303C75A?style=social&logo=naver)](mailto:2y0206y@naver.com)
+  [![Naver](https://img.shields.io/badge/Naver%20mail-2y0206y%40naver.com-2303C75A?style=social&logo=naver)](mailto:2y0206y@naver.com)
   &nbsp;
    <!-- [![Kakaotalk](https://img.shields.io/badge/kakotalk-%23FFCD00?style=social&logo=kakaotalk&logoColor=%23FFCD00)](https://open.kakao.com/o/saBecMkh)
   &nbsp;
